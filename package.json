@@ -1,0 +1,27 @@
+{
+  "name": "vue-component",
+  "version": "1.0.0",
+  "author": "胖橘 <2281525307@qq.com>",
+  "description": "常用Vue组件，基于bootstrap封装",
+  "dependencies": {
+    "vue": "^2.5.2",
+    "vue-router": "^3.0.1",
+    "axios": "^0.19.2",
+    "bootstrap-vue": "^2.9.0",
+    "crypto-js": "3.1.2",
+    "echarts": "^4.7.0",
+    "qs": "^6.9.3",
+    "less": "3.11.1",
+    "jquery": "3.5.0",
+    "vee-validate": "2.2.15"
+  },
+  "engines": {
+    "node": ">= 6.0.0",
+    "npm": ">= 3.0.0"
+  },
+  "browserslist": [
+    "> 1%",
+    "last 2 versions",
+    "not ie <= 8"
+  ]
+}
